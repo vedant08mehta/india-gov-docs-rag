@@ -1,0 +1,118 @@
+[
+  {
+    "question": "What are the objectives, funding, and training targets of MeitY's skill-development programme for unemployed youth in Odisha, Jharkhand, West Bengal, and Bihar?",
+    "source": "46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "page": 300
+  },
+  {
+    "question": "How does BISAG-N support India's digital transformation, and what infrastructure developments did it undertake during 2025\u20132026?",
+    "source": "46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "page": 27
+  },
+  {
+  "question": "When must a Data Fiduciary erase personal data under the DPDP Act, and what exceptions allow it to retain the data for longer?",
+  "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+  "page": 8,
+  "alt_pages": [7]
+  },
+  {
+    "question": "Why is explainability important in AI systems, and what challenges must be considered when making AI decision-making processes transparent?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 86
+  },
+  {
+    "question": "What are the three major policy areas governments are focusing on to develop AI ecosystems, and how do countries use socially relevant sectors to drive AI adoption?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 100
+  },
+  {
+    "question": "What measures does India's National AI Strategy propose for strengthening AI research infrastructure, reskilling the workforce, and promoting AI-driven job creation?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 8
+  },
+  {
+    "question": "What are the major GIS-based governance platforms developed or supported by BISAG-N, and which emerging technology areas does it focus on?",
+    "source": "46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "page": 26
+  },
+  {
+    "question": "How can AI improve smart city services and infrastructure, and what cybersecurity risks arise from its implementation?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 40
+  },
+  {
+    "question": "What powers does the Data Protection Board have when investigating personal data breaches or complaints against Data Fiduciaries and Consent Managers?",
+    "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "page": 14
+  },
+  {
+    "question": "What were the key achievements and technological improvements made to the IndiaHandmade platform by Digital India Corporation during 2025\u20132026?",
+    "source": "46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "page": 324
+  },
+  {
+    "question": "How do C-FLOOD and SeisRTM use high-performance computing to address flood forecasting and oil and gas exploration in India?",
+    "source": "46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "page": 125
+  },
+  {
+    "question": "How does the DPDP Act, 2023 define a personal data breach, and what kinds of incidents fall under this definition?",
+    "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "page": 3
+  },
+  {
+    "question": "What services does India's Online Registration System (ORS) provide to patients, and what modules are available through the e-Hospital application?",
+    "source": "46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "page": 59
+  },
+  {
+    "question": "What initiatives have France, the United States, Japan, and China undertaken to develop AI talent, education, and research capabilities?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 102
+  },
+  {
+    "question": "How could a formal data marketplace improve AI development and investment while addressing ethical concerns related to data sharing and individual consent?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 74
+  },
+  {
+    "question": "What powers does the Data Protection Board have during an inquiry, and what safeguards must it follow while exercising those powers?",
+    "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "page": 15
+  },
+  {
+    "question": "What role do publicly available datasets play in AI research, and how does India's National AI Strategy propose strengthening India-specific datasets?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 112
+  },
+  {
+    "question": "Under what conditions can personal data processing for research, archiving, or statistical purposes be exempt from certain DPDP Act requirements?",
+    "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "page": 12
+  },
+  {
+    "question": "What conditions must consent satisfy under Section 6 of the DPDP Act, 2023, and how does the Act limit consent to personal data necessary for the specified purpose?",
+    "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "page": 5
+  },
+  {
+    "question": "What measures does India's National AI Strategy recommend for protecting privacy in AI systems and increasing public awareness of privacy rights and consent?",
+    "source": "National-Strategy-for-Artificial-Intelligence.pdf",
+    "page": 88
+  },
+  {
+    "question": "\"Under what conditions can an organisation legally process an individual's personal data under the DPDP Act, 2023?\"",
+    "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "page": 4
+  },
+  {
+    "question": "What is the difference between a Data Fiduciary, a Data Principal, and a Data Processor under the DPDP Act, 2023?",
+    "source": "2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "page": 2
+  },
+  {
+    "question": "What certification and testing services are provided by ERTL(W) and ERTL(South), and what types of systems or industries do they support?",
+    "source": "46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "page": 278
+  }
+]
