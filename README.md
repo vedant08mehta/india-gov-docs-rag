@@ -4,7 +4,9 @@ A retrieval-augmented question-answering system over three public Indian governm
 
 > Built as a portfolio project to learn how to build *and measure* a RAG system, not just wire one together.
 
-**[FILL: add 1-2 screenshots of the Streamlit app here, e.g. `docs/screenshot_answer.png`]**
+<img width="958" height="443" alt="Screenshot 2026-11-11 132554" src="https://github.com/user-attachments/assets/70b38174-c9ac-48fd-b6a9-056baafab228" />
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/c938fbdf-609f-4ac2-9724-4074e945edc3" />
+
 
 ## What it does
 
